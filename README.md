@@ -1,4 +1,4 @@
-# FAQ's Application
+# Product Cards From API - React Application
 
 A brief description of your React application.
 
